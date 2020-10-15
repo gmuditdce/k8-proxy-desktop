@@ -22,7 +22,7 @@
 
 If you are working on this project via Upwork, see also our [Upwork Rules of Engagement](https://github.com/filetrust/Open-Source/blob/master/upwork/rules-of-engagement.md)
 
-If you are newcomer, then please check [Glasswall newcomers checklist ](https://github.com/filetrust/Open-Source )
+If you are newcomer , then please check [Glasswall newcomers checklist ](https://github.com/filetrust/Open-Source )
 
 
 ## Installing
