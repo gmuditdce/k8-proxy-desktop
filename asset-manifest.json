@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/k8-proxy-desktop/static/css/main.686b6e7b.chunk.css",
-    "main.js": "/k8-proxy-desktop/static/js/main.c449f657.chunk.js",
-    "main.js.map": "/k8-proxy-desktop/static/js/main.c449f657.chunk.js.map",
+    "main.js": "/k8-proxy-desktop/static/js/main.6d4da902.chunk.js",
+    "main.js.map": "/k8-proxy-desktop/static/js/main.6d4da902.chunk.js.map",
     "runtime-main.js": "/k8-proxy-desktop/static/js/runtime-main.1ab95791.js",
     "runtime-main.js.map": "/k8-proxy-desktop/static/js/runtime-main.1ab95791.js.map",
     "static/js/2.6992fcaa.chunk.js": "/k8-proxy-desktop/static/js/2.6992fcaa.chunk.js",
     "static/js/2.6992fcaa.chunk.js.map": "/k8-proxy-desktop/static/js/2.6992fcaa.chunk.js.map",
     "index.html": "/k8-proxy-desktop/index.html",
-    "precache-manifest.d5363159c041ff36de4ed4fb65c30592.js": "/k8-proxy-desktop/precache-manifest.d5363159c041ff36de4ed4fb65c30592.js",
+    "precache-manifest.99b1b28703cbb2b92e733d3a3f71dd2d.js": "/k8-proxy-desktop/precache-manifest.99b1b28703cbb2b92e733d3a3f71dd2d.js",
     "service-worker.js": "/k8-proxy-desktop/service-worker.js",
     "static/css/main.686b6e7b.chunk.css.map": "/k8-proxy-desktop/static/css/main.686b6e7b.chunk.css.map",
     "static/js/2.6992fcaa.chunk.js.LICENSE.txt": "/k8-proxy-desktop/static/js/2.6992fcaa.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.1ab95791.js",
     "static/js/2.6992fcaa.chunk.js",
     "static/css/main.686b6e7b.chunk.css",
-    "static/js/main.c449f657.chunk.js"
+    "static/js/main.6d4da902.chunk.js"
   ]
 }
