@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "296f69d7d42fcbcaa051d0357ab1d86c",
+    "revision": "a31fbd6b045fe712eff2af7671aa1a38",
     "url": "/k8-proxy-desktop/index.html"
   },
   {
-    "revision": "3e5129e11dd6cbffdf63",
+    "revision": "d7f018fda8fa0b5aeb27",
     "url": "/k8-proxy-desktop/static/css/main.686b6e7b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/k8-proxy-desktop/static/js/2.6992fcaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e5129e11dd6cbffdf63",
-    "url": "/k8-proxy-desktop/static/js/main.bf7a751f.chunk.js"
+    "revision": "d7f018fda8fa0b5aeb27",
+    "url": "/k8-proxy-desktop/static/js/main.c449f657.chunk.js"
   },
   {
     "revision": "ad6eeb841d01cb9b214d",
